@@ -1,16 +1,23 @@
-# test_app
+## Flutter Unit Converter. 
 
-A new Flutter project.
+A Simple Flutter Unit converter app that uses local project using local conversion asset and API calls for currency conversion.
 
-## Getting Started
+### Getting Started
+Before you start make sure to have both 
+ - [Flutter](https://flutter.dev/docs/get-started/install?gclid=CjwKCAjwjqT5BRAPEiwAJlBuBVqgZ_JE9IpihhBR-d5XQkKsRxZpfSrbzLmJ9pO9Zehsdykw2kOIfxoClaQQAvD_BwE&gclsrc=aw.ds)
+ - [dart](https://dart.dev/get-dart)
+installed on your machine. 
 
-This project is a starting point for a Flutter application.
+#### Setting up your environment. 
 
-A few resources to get you started if this is your first Flutter project:
+Clone the app using the command below. 
+`git clone https://github.com/Eyoel-Wendwosen/Flutter-Unit-Converter.git `
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+open the flutter directory path. 
+`cd <Path to the flutter app directory`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+run to pull the necessary dependencies. 
+`flutter pub get`
+
+Before this next step make sure to have a **USB debuging enabled** android device or **emulatro** connected to your machine. Then run the command below to run the application.  
+`flutter run`

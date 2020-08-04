@@ -1,4 +1,4 @@
-name: Unit Converter
+name: unit_converter
 description: A simple Flutter project that implements unit conversion by using local conversion asset and API calls for currency conversion.
 
 # The following line prevents the package from being accidentally published to
