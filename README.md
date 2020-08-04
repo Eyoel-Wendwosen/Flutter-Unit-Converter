@@ -10,14 +10,14 @@ installed on your machine.
 
 #### Setting up your environment. 
 
-Clone the app using the command below. 
+Clone the app using the command below.     
 `git clone https://github.com/Eyoel-Wendwosen/Flutter-Unit-Converter.git `
 
-open the flutter directory path. 
+open the flutter directory path.    
 `cd <Path to the flutter app directory`
 
-run to pull the necessary dependencies. 
+run to pull the necessary dependencies.     
 `flutter pub get`
 
-Before this next step make sure to have a **USB debuging enabled** android device or **emulatro** connected to your machine. Then run the command below to run the application.  
+Before this next step make sure to have a **USB debuging enabled** android device or **emulatro** connected to your machine. Then run the command below to run the application.     
 `flutter run`
